@@ -27,7 +27,7 @@ function ServiceXray() {
 
   function MT() {
     setTimeout(function() {
-      window.open('../../error.html', 'ultimate')},
+      window.open('./error.html', 'ultimate')},
     100);
     }
 
