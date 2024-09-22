@@ -1,0 +1,48 @@
+==============================================
+CREDIT BY : @BellaTrix_cs || https://t.me/CATunneling
+CREDIT BY : @BellaTrix_cs || https://t.me/CATunneling
+CREDIT BY : @BellaTrix_cs || https://t.me/CATunneling
+CREDIT BY : @BellaTrix_cs || https://t.me/CATunneling
+==============================================
+==============================================
+        📢 NEW UPDATE TGL 22-09-2024 📢
+Thanks You For Visit My Website freenet.catvpn.web.id
+==============================================
+
+☉——————————————————————————☉
+Xray/Vmess Account
+☉——————————————————————————☉
+Remarks   : gakepake
+Domain    : biznet.bogelstore.pw
+Limit Quota : 0 GB
+Limit Ip  : 0 (Device)
+ISP       : AS133800 PT Biznet Gio Nusantara
+Location  : Cileungsir
+Port TLS  : 400-900
+Port NTLS : 80, 8080, 8081-9999
+id        : c10efca7-a10b-4e44-9760-83a30b85c787
+alterId   : 0
+Security  : auto
+network   : ws or grpc
+Path      : /Multi-Path
+Dynamic   : https://bugmu.com/path
+Name      : vmess-grpc
+☉——————————————————————————☉
+VMESS WS TLS
+☉——————————————————————————☉
+vmess://eyAidiI6ICIyIiwgInBzIjogImdha2VwYWtlIiwgImFkZCI6ICJiaXpuZXQuYm9nZWxzdG9yZS5wdyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJjMTBlZmNhNy1hMTBiLTRlNDQtOTc2MC04M2EzMGI4NWM3ODciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJpem5ldC5ib2dlbHN0b3JlLnB3IiwgInRscyI6ICJ0bHMiIH0K
+☉——————————————————————————☉
+VMESS WS NO TLS
+☉——————————————————————————☉
+vmess://eyAidiI6ICIyIiwgInBzIjogImdha2VwYWtlIiwgImFkZCI6ICJiaXpuZXQuYm9nZWxzdG9yZS5wdyIsICJwb3J0IjogIjgwIiwgImlkIjogImMxMGVmY2E3LWExMGItNGU0NC05NzYwLTgzYTMwYjg1Yzc4NyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYml6bmV0LmJvZ2Vsc3RvcmUucHciLCAidGxzIjogIm5vbmUiIH0K
+☉——————————————————————————☉
+VMESS gRPC
+☉——————————————————————————☉
+vmess://eyAidiI6ICIyIiwgInBzIjogImdha2VwYWtlIiwgImFkZCI6ICJiaXpuZXQuYm9nZWxzdG9yZS5wdyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJjMTBlZmNhNy1hMTBiLTRlNDQtOTc2MC04M2EzMGI4NWM3ODciLCAiYWlkIjogIjAiLCAibmV0IjogImdycGMiLCAicGF0aCI6ICJ2bWVzcy1ncnBjIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJpem5ldC5ib2dlbHN0b3JlLnB3IiwgInRscyI6ICJ0bHMiIH0K
+☉——————————————————————————☉
+Format OpenClash : https://biznet.bogelstore.pw:81/vmess-gakepake.txt
+☉——————————————————————————☉
+Aktif Selama   : 7 Hari
+Dibuat Pada    : 22 Sep, 2024
+Berakhir Pada  : 29 Sep, 2024
+☉——————————————————————————☉
