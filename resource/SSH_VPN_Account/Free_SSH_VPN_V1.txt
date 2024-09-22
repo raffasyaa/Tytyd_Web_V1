@@ -1,13 +1,51 @@
-//Credit By : @BellaTrix_cs || @CATunneling
-//Credit By : @BellaTrix_cs || @CATunneling
-//Credit By : @BellaTrix_cs || @CATunneling
-===========================================
+==============================================
+        📢 NEW UPDATE TGL 22-09-2024 📢
+Thanks You For Visit My Website freenet.catvpn.web.id
+==============================================
+      Credit By : https://t.me/BellaTrix_cs
 
+☉——————————————————————————☉
+Succes Cretae SSH Account     
+☉——————————————————————————☉
+Username         : gakepake
+Password         : 1
+Limit Ip         : 0
+☉——————————————————————————☉
+Host             : biznet.bogelstore.pw
+ISP              : AS133800 PT Biznet Gio Nusantara
+CITY             : Cileungsir
+Port OpenSSH     : 443, 80, 22
+Port Dropbear    : 443, 109
+Port SSH WS      : 80, 8080, 8081-9999 
+Port SSH UDP     : 1-65535 
+Port SSH SSL WS  : 443
+Port SSL/TLS     : 400-900
+Port OVPN WS SSL : 443
+Port OVPN SSL    : 443
+Port OVPN TCP    : 443, 1194
+Port OVPN UDP    : 2200
+BadVPN UDP       : 7100, 7300, 7300
+Pub Key           : 37c357802aac0c386baf09479c9decabf18f5bb665373fb0b13d96a7026c8c67
+☉——————————————————————————☉
+SSH WS      : 
+biznet.bogelstore.pw:80@gakepake:1
+SSH SSL      : 
+biznet.bogelstore.pw:443@gakepake:1
+SSH UDP      : 
+biznet.bogelstore.pw:1-65535@gakepake:1
+☉——————————————————————————☉
+🧿Payload WS       : 🧿GET / HTTP/1.1[crlf]host: biznet.bogelstore.pw[crlf]Upgrade: Websocket[crlf][crlf]
+☉——————————————————————————☉
+🧿Payload WSS      : 🧿GET wss://BUG.COM/ HTTP/1.1[crlf]Host: biznet.bogelstore.pw[crlf]Upgrade: websocket[crlf][crlf]
+☉——————————————————————————☉
+🧿Payload Enhanced : 🧿PATCH / HTTP/1.1[crlf]Host: biznet.bogelstore.pw[crlf]Host: bug.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+☉——————————————————————————☉
+OVPN Download : https://biznet.bogelstore.pw:81/
+☉——————————————————————————☉
+Save Link Account: https://biznet.bogelstore.pw:81/ssh-gakepake.txt
+☉——————————————————————————☉
+Aktif Selama         : 7 Hari
+Dibuat Pada          : 22 Sep, 2024
+Berakhir Pada        : 29 Sep, 2024
+☉——————————————————————————☉
 
-
-
-
-===========================================
-//Credit By : @BellaTrix_cs || @CATunneling
-//Credit By : @BellaTrix_cs || @CATunneling
-//Credit By : @BellaTrix_cs || @CATunneling
