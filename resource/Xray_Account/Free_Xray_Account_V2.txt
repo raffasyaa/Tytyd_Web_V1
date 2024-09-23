@@ -1,8 +1,39 @@
 ===============================================
-        📢 NEW UPDATE TGL 22-09-2024 📢
+        📢 NEW UPDATE TGL 23-09-2024 📢
 Thanks You For Visit My Website freenet.catvpn.web.id
 ==============================================
        Credit By : https://t.me/BellaTrix_cs
+
+◇━━━━━━━━━━━━━━━━━◇
+ VMESS XRAY
+ Remarks       : bagi
+ Domain        : bansos.bumiayuvpn.my.id
+ User Quota    : 0 GB
+ User Ip       : 0 IP
+ Port TLS      : 400,8443
+ port WS       : 80,8880,8080,2082
+ Key           : 4cd7695f-8570-4020-a10c-5bbf19d4dbc3
+ Localtions    : Jakarta
+ ISP           : CV. Rumahweb Indonesia
+ AlterId       : 0
+ Security      : auto
+ Network       : ws
+ Path          : /vmess
+ Dynamic Path  : yourbug/vmess
+ ServiceName   : vmess-grpc
+ ◇━━━━━━━━━━━━━━━━━◇
+ Link TLS      : vmess://eyAidiI6ICIyIiwgInBzIjogImJhZ2kiLCAiYWRkIjogImJhbnNvcy5idW1pYXl1dnBuLm15LmlkIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjRjZDc2OTVmLTg1NzAtNDAyMC1hMTBjLTViYmYxOWQ0ZGJjMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYmFuc29zLmJ1bWlheXV2cG4ubXkuaWQiLCAidGxzIjogInRscyIgfQo=
+ ◇━━━━━━━━━━━━━━━━━◇
+ Link WS       : vmess://eyAidiI6ICIyIiwgInBzIjogImJhZ2kiLCAiYWRkIjogImJhbnNvcy5idW1pYXl1dnBuLm15LmlkIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiNGNkNzY5NWYtODU3MC00MDIwLWExMGMtNWJiZjE5ZDRkYmMzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJiYW5zb3MuYnVtaWF5dXZwbi5teS5pZCIsICJ0bHMiOiAibm9uZSIgfQo=
+ ◇━━━━━━━━━━━━━━━━━◇
+ Link GRPC     : vmess://eyAidiI6ICIyIiwgInBzIjogImJhZ2kiLCAiYWRkIjogImJhbnNvcy5idW1pYXl1dnBuLm15LmlkIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjRjZDc2OTVmLTg1NzAtNDAyMC1hMTBjLTViYmYxOWQ0ZGJjMyIsICJhaWQiOiAiMCIsICJuZXQiOiAiZ3JwYyIsICJwYXRoIjogInZtZXNzLWdycGMiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYmFuc29zLmJ1bWlheXV2cG4ubXkuaWQiLCAidGxzIjogInRscyIgfQo=
+ ◇━━━━━━━━━━━━━━━━━◇
+ OpenClash     : https://bansos.bumiayuvpn.my.id:81/vmess-bagi.txt
+ ◇━━━━━━━━━━━━━━━━━◇
+ Expiry        : 5 Day
+ ◇━━━━━━━━━━━━━━━━━◇
+
+==========================
          
 ————————————————————————————————————————————————————
               ----- [ All Xray ] -----              
